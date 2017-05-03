@@ -2,4 +2,6 @@
 View Etiamanere online: http://etiamanere.com (under construction)<br>
 Now you can view the frontend part at: http://etiamanere.altervista.org/
 
+<strong>Frontend</strong><br><br>
 
+We use to create the frontend part of the website scripting languages as HTML5, CSS, JavaScript and Boostrap framework. 
