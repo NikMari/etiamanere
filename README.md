@@ -4,4 +4,4 @@ Now you can view the frontend part at: http://etiamanere.altervista.org/
 
 <strong>Frontend</strong><br><br>
 
-We use to create the frontend part of the website scripting languages as HTML5, CSS, JavaScript and Boostrap framework. 
+To create the frontend part we have used scripting languages as HTML5, CSS, JavaScript and Boostrap framework. 
