@@ -1,1 +1,1 @@
-# etiamanere
+# Etiamanere - Your Digital Trainer
