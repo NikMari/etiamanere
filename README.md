@@ -23,3 +23,6 @@ Effettuato l'accesso, l'utente compilerà un form in cui potrà selezionare l'ob
 
 ## FORUM
 Oltre ad aver accesso a contatti come indirizzo mail di Etiamanere, l'utente avrà la possibilità di poter interagire con altri utenti tramite un forum. Potrà quindi creare topic e interagire con altri utenti rispondendo con dei post.
+
+## THE DEVELOPER
+- ### Nikolò Mari
