@@ -17,6 +17,9 @@ Etiamanere è nato per permettere a qualsiasi persona che svolge attività fisic
 
 ## Manuale d'uso
 E' possibile accedere ad Etiamanere utilizzando un qualsiasi browser, possibilmente aggiornato all'ultima versione, visitando il link: <br><p align="center">http://etiamanere.com</p><br>
-L'utente si ritroverà sulla pagina principale potendo così visualizzare informazioni riguardo il progetto e i contatti. Cliccando sul bottone Register Now, l'utente accederà alla pagina di registrazione dove compilerà i dati personali. Una volta effettuata la registrazione al sito, potrà loggarsi cliccando su Sign In. 
+L'utente si ritroverà sulla pagina principale potendo così visualizzare informazioni riguardo il progetto, i contatti ed eventuali regolamenti. Cliccando sul bottone Register Now, l'utente accederà alla pagina di registrazione dove compilerà i dati personali. Una volta effettuata la registrazione al sito, potrà loggarsi cliccando su Sign In. 
 
 Effettuato l'accesso, l'utente compilerà un form in cui potrà selezionare l'obiettivo di massa o definizione, e inserirà dati come peso, età, altezza, ecc. Una volta compilato, cliccando su un bottone verrà scaricata in formato PDF la scheda più adatta all'utente.
+
+## FORUM
+Oltre ad aver accesso a contatti come indirizzo mail di Etiamanere, l'utente avrà la possibilità di poter interagire con altri utenti tramite un forum. Potrà quindi creare topic e interagire con altri utenti rispondendo con dei post.
