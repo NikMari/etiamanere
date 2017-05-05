@@ -28,5 +28,5 @@ Oltre ad aver accesso a contatti come indirizzo mail di Etiamanere, l'utente avr
 Nel caso l'utente riscontri problemi tecnici, potrà segnalare il problema tramite issues di GitHub e segnalare l'errore riscontrato.
 
 ## The Developer
-### Nikolò Mari
+### Nicolò Mari
 Mi chiamo Nikolò Mari e sono uno studente presso l'Istituto Tecnico Industriale Statale J.C. Maxwell. Conoscendo il mondo del fitness e con ottime basi sull'alimentazione, ho deciso di applicare la mia conoscenza in un progetto che permetta a chiunque di poter seguire un ottimo stile di vita alimentare e sportivo.  
