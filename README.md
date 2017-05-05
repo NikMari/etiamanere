@@ -13,7 +13,7 @@ Etiamanere è un progetto d'esame per l'Istituto Tecnico Industriale Statale J.C
   - MySQL (phpMyAdmin)
   
 ## Descrizione
-Etiamanere è nato per permettere a qualsiasi persona che svolge attività fisica e non di poter scaricare un programma di allenamento personale abbinato ad una scheda alimentare. L'obiettivo di Etiamanere è quello di permettere all'utente di poter raggiungere obiettivi di massa o definizione per il proprio corpo e di garantire un'alimentazione corretta per qualsiasi stile di vita (sedentario e non).
+Etiamanere è nato per permettere a qualsiasi persona che svolge attività fisica e non di poter scaricare un programma di allenamento personale abbinato ad una scheda alimentare. L'obiettivo di Etiamanere è quello di permettere all'utente di poter raggiungere obiettivi di massa o definizione per il proprio corpo e di garantire un'alimentazione corretta per qualsiasi stile di vita.
 
 ## Manuale d'uso
 E' possibile accedere ad Etiamanere utilizzando un qualsiasi browser, possibilmente aggiornato all'ultima versione, visitando il link: <br><p align="center">http://etiamanere.com</p><br>
