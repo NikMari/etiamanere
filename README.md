@@ -1,26 +1,32 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# Etiamanere - Your Digital Trainer
+View Etiamanere online: http://etiamanere.com (under construction)<br>
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+## Sviluppo
+Etiamanere è un progetto d'esame per l'Istituto Tecnico Industriale Statale J.C. Maxwell e verrà sviluppato nei seguenti linguaggi:
 
-## Getting Started
+  - HTML5
+  - CSS3 
+  - PHP
+  - Framework Bootstrap
+  - JavaScript
+  - jQuery library
+  - MySQL (phpMyAdmin)
+  
+## Descrizione
+Etiamanere è nato per permettere a qualsiasi persona che svolge attività fisica e non di poter scaricare un programma di allenamento personale abbinato ad una scheda alimentare. L'obiettivo di Etiamanere è quello di permettere all'utente di poter raggiungere obiettivi di massa o definizione per il proprio corpo e di garantire un'alimentazione corretta per qualsiasi stile di vita.
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+## Manuale d'uso
+E' possibile accedere ad Etiamanere utilizzando un qualsiasi browser, possibilmente aggiornato all'ultima versione, visitando il link: <br><p align="center">http://etiamanere.com</p><br>
+L'utente si ritroverà sulla pagina principale potendo così visualizzare informazioni riguardo il progetto, i contatti ed eventuali regolamenti. Cliccando sul bottone Register Now, l'utente accederà alla pagina di registrazione dove compilerà i dati personali. Una volta effettuata la registrazione al sito, potrà loggarsi cliccando su Sign In. 
 
-## Bugs and Issues
+Effettuato l'accesso, l'utente compilerà un form in cui potrà selezionare l'obiettivo di massa o definizione, e inserirà dati come peso, età, altezza, ecc. Una volta compilato, cliccando su un bottone verrà scaricata in formato PDF la scheda più adatta all'utente.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+## Forum
+Oltre ad aver accesso a contatti come indirizzo mail di Etiamanere, l'utente avrà la possibilità di poter interagire con altri utenti tramite un forum. Potrà quindi creare topic e interagire con altri utenti rispondendo con dei post.
 
-## Creator
+## Issues
+Nel caso l'utente riscontri problemi tecnici, potrà segnalare il problema tramite issues di GitHub e segnalare l'errore riscontrato.
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/gh-pages/LICENSE) license.
+## The Developer
+### Nicolò Mari
+Mi chiamo Nicolò Mari e sono uno studente presso l'Istituto Tecnico Industriale Statale J.C. Maxwell. Conoscendo il mondo del fitness e con ottime basi sull'alimentazione, ho deciso di applicare la mia conoscenza in un progetto che permetta a chiunque di poter seguire un ottimo stile di vita alimentare e sportivo.  
