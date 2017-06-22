@@ -27,3 +27,7 @@ Nel caso l'utente riscontri problemi tecnici, potrà segnalare il problema trami
 ## The Developer
 ### Nicolò Mari
 Mi chiamo Nicolò Mari e sono uno studente presso l'Istituto Tecnico Industriale Statale J.C. Maxwell. Conoscendo il mondo del fitness e con ottime basi sull'alimentazione, ho deciso di applicare la mia conoscenza in un progetto che permetta a chiunque di poter seguire un ottimo stile di vita alimentare e sportivo.  
+
+## Gruppo di Supporto 
+### Veronica De Santis
+### Mirko Checchia
