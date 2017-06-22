@@ -21,9 +21,6 @@ L'utente si ritroverà sulla pagina principale potendo così visualizzare inform
 
 Effettuato l'accesso, l'utente compilerà un form in cui potrà selezionare l'obiettivo di massa o definizione, e inserirà dati come peso, età, altezza, ecc. Una volta compilato, cliccando su un bottone verrà scaricata in formato PDF la scheda più adatta all'utente.
 
-## Forum
-Oltre ad aver accesso a contatti come indirizzo mail di Etiamanere, l'utente avrà la possibilità di poter interagire con altri utenti tramite un forum. Potrà quindi creare topic e interagire con altri utenti rispondendo con dei post.
-
 ## Issues
 Nel caso l'utente riscontri problemi tecnici, potrà segnalare il problema tramite issues di GitHub e segnalare l'errore riscontrato.
 
